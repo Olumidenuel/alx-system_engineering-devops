@@ -1,2 +1,2 @@
 #!/bin/bash
-prompt > export '1WATER=1'/ '1STIR=1' \n | %x #bestchol
+printf "%o\n" $(($((5#$(echo $WATER |
