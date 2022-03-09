@@ -1,0 +1,2 @@
+#!/bin/bash
+prompt > export '1WATER=1'/ '1STIR=1' \n | %x #bestchol
